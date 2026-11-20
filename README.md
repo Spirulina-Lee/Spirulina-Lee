@@ -1,7 +1,7 @@
 <p align="right"><b>English</b> | <a href="README_zh.md">简体中文</a></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=560&height=50&lines=To%20cross%20the%20mountains%2C%20first%20delight%20yourself" alt="To cross the mountains, first delight yourself" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=24&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=400&height=50&lines=Delight%20before%20the%20height" alt="Delight before the height" />
 </div>
 
 ### Hi there 👋

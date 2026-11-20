@@ -23,14 +23,11 @@
 
 ### 🛠️ 技术栈
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4B275F?style=flat-square)
-![MSP430](https://img.shields.io/badge/MSP430-CC0000?style=flat-square&logo=texasinstruments&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**语言**：Python · TypeScript · C · Java · MATLAB · SystemVerilog / Verilog / VHDL · 汇编
+
+**框架与工具**：React · Vite · NumPy · pandas · Jupyter · OpenAI API · Git · LaTeX
+
+**硬件**：TI MSP430 · FPGA 数字设计
 
 ---
 

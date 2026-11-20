@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=24&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=320&height=50&lines=%E8%B6%8A%E5%B1%B1%E5%85%88%E6%82%A6%E5%B7%B1" alt="越山先悦己" />
 </div>
 
+### 你好 👋
+
 [English](README.md) | **简体中文**
 
 **电气工程**专业学生。做过嵌入式、数字电路和软件工具，最近在做 Web 看板和 LLM Agent。

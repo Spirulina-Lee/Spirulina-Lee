@@ -71,8 +71,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spirulina-Lee/Spirulina-Lee/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Spirulina-Lee/Spirulina-Lee/output/github-snake.svg" alt="Contribution snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spirulina-Lee/Spirulina-Lee/output/github-snake-dark.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/Spirulina-Lee/Spirulina-Lee/output/github-snake.svg?v=2" alt="Contribution snake animation" />
 </picture>
 
 ---

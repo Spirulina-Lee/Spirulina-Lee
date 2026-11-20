@@ -49,7 +49,7 @@
 ### 📊 GitHub stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Spirulina-Lee&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Spirulina-Lee&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spirulina-Lee&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 

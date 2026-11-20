@@ -4,10 +4,18 @@
 
 **Electrical Engineering** student. I've worked on embedded systems, digital design and software tools, and lately on web dashboards and LLM agents.
 
-- 🔭 Currently working on an **intelligent alarm management system** for building automation (capstone project)
-- 🤖 Exploring **LLM agents** and tool calling
-- 🏆 Award-winning **mathematical modeling** work: simulation, optimization and decision models
-- 🌱 Interested in embedded systems, data-driven engineering and applied AI
+- Built an alarm management dashboard for a campus building management system (senior capstone, completed)
+- Working on LLM agents with tool calling in coursework
+- Two mathematical modeling contest awards: provincial second prize (CUMCM 2024) and university first prize
+- Interests: embedded systems, digital design, applied AI
+
+---
+
+### 🎓 Education
+
+- **University of Washington** — M.S., Electrical Engineering (2026 – present)
+- **Northern Arizona University** — B.S., Electrical Engineering (2026)
+- **Chongqing University of Posts and Telecommunications (CQUPT)** — Electronic Information, joint program
 
 ---
 

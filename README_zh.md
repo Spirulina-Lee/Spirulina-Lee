@@ -48,11 +48,6 @@
 
 ### 📊 动态
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spirulina-Lee/Spirulina-Lee/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Spirulina-Lee/Spirulina-Lee/output/github-snake.svg" alt="Contribution snake animation" />
-</picture>
-
 ---
 
 ### 📫 联系方式

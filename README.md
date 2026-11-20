@@ -2,7 +2,7 @@
 
 **English** | [简体中文](README_zh.md)
 
-I'm an **Electrical Engineering** student who likes building things that sit between hardware and software: from microcontrollers and digital logic to data tools, dashboards and LLM agents.
+**Electrical Engineering** student. I've worked on embedded systems, digital design and software tools, and lately on web dashboards and LLM agents.
 
 - 🔭 Currently working on an **intelligent alarm management system** for building automation (capstone project)
 - 🤖 Exploring **LLM agents** and tool calling
